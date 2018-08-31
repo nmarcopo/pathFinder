@@ -2,7 +2,7 @@
 Originally submitted on April 20, 2018 to professor [Shreya Kumar](https://www3.nd.edu/~skumar5/).
 
 # Addendum:
-## You can run this project [here](http://206.189.170.253:9001)!  
+## You can run this project [here](http://nick.marcopo.li:9001)!  
 I'd like to say a huge "thank you" to my friend Andy, who really came in big time on this project. The week this project was due, I had a ton of other projects due as well. Thankfully, Andy had a little more time to spare, so he was able to contribute to this project more than I was, especially in regard to the write-up we needed at the end of the project.  
 This is an implementation of Dijkstra's Algorithm visualized on a map. The tiles have certain weights to them, which allow the runner to take the "shortest path" through them.
 
